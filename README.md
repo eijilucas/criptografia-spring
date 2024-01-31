@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/eijilucas/criptografia-spring/blob/main/LICENSE)
 
 # Sobre o projeto
-API para criptografia de senhas de usuários criada a partir da linguagem Java.
+API para criptografia de senhas de usuários criada a partir da linguagem Java utilizando o Spring Security.
 
 # Funcionamento
 ## Inserindo o usuário na aplicação
