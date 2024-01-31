@@ -20,8 +20,10 @@ Pré-requisitos: Java 17
 ```bash
 # clonar repositório
 git clone https://github.com/eijilucas/criptografia-spring
+
 # localiza a pasta
 cd criptografia-spring
+
 # executa o projeto
 ./mvnw spring-boot:run
 ```
