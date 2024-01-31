@@ -1,4 +1,5 @@
 # Criptografia com Spring
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/eijilucas/criptografia-spring/blob/main/LICENSE)
 
 # Sobre o projeto
 API para criptografia de senhas de usuários criada a partir da linguagem Java.
