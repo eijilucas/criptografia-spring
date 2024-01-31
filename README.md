@@ -6,18 +6,18 @@ API para criptografia de senhas de usuários criada a partir da linguagem Java.
 
 # Funcionamento
 ## Inserindo o usuário na aplicação
-!(https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190349.png)
+![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190349.png)
 
 ## Criptografia da senha
-!(https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190431.png)
+![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190431.png)
 
 ## Validando se as senhas coincidem testando os 2 casos, se o usuário preenche os dados corretamente ou incorretamente
 
 ### Se o usuário preenche a senha corretamente, retorna "true"
-!(https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190615.png)
+![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190615.png)
 
 ### Se o usuário preenche a senha incorretamnete, retorna "false"
-!(https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190632.png)
+![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190632.png)
 
 # Tecnologias utilizadas
 
