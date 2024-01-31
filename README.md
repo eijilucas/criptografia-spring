@@ -16,7 +16,7 @@ API para criptografia de senhas de usuários criada a partir da linguagem Java.
 ### Se o usuário preenche a senha corretamente, retorna "true"
 ![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190615.png)
 
-### Se o usuário preenche a senha incorretamnete, retorna "false"
+### Se o usuário preenche a senha incorretamente, retorna "false"
 ![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190632.png)
 
 # Tecnologias utilizadas
