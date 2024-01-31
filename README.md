@@ -13,10 +13,10 @@ API para criptografia de senhas de usuários criada a partir da linguagem Java.
 
 ## Validando se as senhas coincidem testando os 2 casos, se o usuário preenche os dados corretamente ou incorretamente
 
-### Se o usuário preenche a senha corretamente, retorna "true"
+### Se o usuário preenche a senha corretamente, retorna "true" com o HttpStatus 200 OK
 ![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190615.png)
 
-### Se o usuário preenche a senha incorretamente, retorna "false"
+### Se o usuário preenche a senha incorretamente, retorna "false" com o HttpStatus 401 UNAUTHORIZED
 ![Tela Funcionamento](https://github.com/eijilucas/assets/blob/main/Captura%20de%20tela%202024-01-31%20190632.png)
 
 # Tecnologias utilizadas
